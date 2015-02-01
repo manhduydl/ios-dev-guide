@@ -1,5 +1,7 @@
 
 
+How different?
+
 ```ojc
 static NSString *const kDetailedViewControllerID = @"DetailView";    // view controller storyboard id
 static NSString *const kCellID = @"cellID";                          // UICollectionViewCell storyboard id
