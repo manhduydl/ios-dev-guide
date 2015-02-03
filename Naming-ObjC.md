@@ -1,4 +1,4 @@
 
 
-* Naming for IBAction
-`shareButtonTouched`
+* Naming for segue identifier `showRecipePhoto`
+* Naming for IBAction `shareButtonTouched`
