@@ -1,5 +1,9 @@
 
 
+* Naming for method in category
+```objc
++ (UIStoryboard *)tp_mainStoryboard;
+```
 * Naming for segue identifier
 ```objc
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
