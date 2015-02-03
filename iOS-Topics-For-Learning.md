@@ -1,3 +1,6 @@
+TestFight
+* http://www.appcoda.com/testflight-beta-testing/
+
 Gesture recognizers
 * http://www.appcoda.com/ios-gesture-recognizers/
 
