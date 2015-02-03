@@ -1,5 +1,5 @@
 Best websites for iOS developers
-=======
+
 * http://nshipster.com/
 * http://www.objc.io/
 * http://www.raywenderlich.com/
