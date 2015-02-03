@@ -1,4 +1,4 @@
-TestFight
+TestFlight
 * http://www.appcoda.com/testflight-beta-testing/
 
 Gesture recognizers
