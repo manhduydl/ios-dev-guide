@@ -7,6 +7,11 @@
     }
 }
 ```
+* Naming for Outlet
+```objc
+@property (weak, nonatomic) IBOutlet UIBarButtonItem *shareButton;
+```
+
 * Naming for IBAction
 ```objc
 - (IBAction)shareButtonTouched:(id)sender;
