@@ -1,4 +1,4 @@
 
 
-Naming for IBAction
-shareButtonTouched
+* Naming for IBAction
+`shareButtonTouched`
