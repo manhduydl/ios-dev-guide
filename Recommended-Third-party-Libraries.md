@@ -1,6 +1,9 @@
 
-List repos that I will create PRs for learning
+List repos for creating PRs
 * [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell): An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application).
+
+List repos for reading code
+* [AFNetworking](https://github.com/AFNetworking/AFNetworking): A delightful iOS and OS X networking framework http://afnetworking.com
 
 Good repos for using in your projects
 * Testing
