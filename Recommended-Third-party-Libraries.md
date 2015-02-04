@@ -1,5 +1,5 @@
 
-List repos that I will created PRs for learning
+List repos that I will create PRs for learning
 * [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell): An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application).
 
 Good repos for using in your projects
