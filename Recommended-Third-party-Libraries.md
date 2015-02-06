@@ -6,6 +6,9 @@ List repos for reading code
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking): A delightful iOS and OS X networking framework http://afnetworking.com
 
 Good repos for using in your projects
+* Replace NSLog
+	* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack): A fast & simple, yet powerful & flexible logging framework for Mac and iOS.
+	* [UALogger](https://github.com/UrbanApps/UALogger): A powerful and flexible logging utility for Mac/iOS apps  
 * Testing
 	* [Foundry](https://github.com/smyrgl/Foundry): A library for creating test objects in Objective-C. 
 * Data
