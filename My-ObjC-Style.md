@@ -12,7 +12,7 @@ Return instead of using if else
     
     [[TPUserManager sharedInstance] LogOut];
     [self dismissViewControllerAnimated:YES completion:nil];
-    }];
+}];
 ```
 
 ```objc
