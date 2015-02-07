@@ -1,3 +1,7 @@
+Facebook Open source
+* http://asyncdisplaykit.org/
+* https://github.com/facebook/pop
+
 Objective-C
 * https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210
 
