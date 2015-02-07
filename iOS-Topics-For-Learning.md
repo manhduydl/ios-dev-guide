@@ -1,3 +1,10 @@
+Topics: Auto Layout, Adaptive Layout, WatchKit, App Architecture, Swift, Advanced Debugging, Swift for Obj-C Devs - Functional Programming, Unit Testing,  App Extensions, WatchKit, Core Graphics, Dynamic Custom Controls in Xcode 6, OS Animation:
+View Controller Transitions, iOS Animation: Animating Auto Layout Constraints, Core Data & Multithreading, Collection View
+Custom Layouts.
+
+Ref
+* http://rwdevcon.com/downloads/RWDevCon_Schedule_v1.6.pdf
+
 Facebook Open source
 * http://asyncdisplaykit.org/
 * https://github.com/facebook/pop
