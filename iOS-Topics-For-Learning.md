@@ -8,6 +8,9 @@ Custom Layouts.
 
 ###Resouces
 
+WatchKit
+* http://david-smith.org/watchkit/
+
 Facebook Open source
 * http://asyncdisplaykit.org/
 * https://github.com/facebook/pop
