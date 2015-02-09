@@ -8,6 +8,10 @@ Custom Layouts.
 
 ###Resouces
 
+Unit testing
+* http://artofunittesting.com/
+* http://www.jamesshore.com/Blog/Lets-Play
+
 WatchKit
 * http://david-smith.org/watchkit/
 
