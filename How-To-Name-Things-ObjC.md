@@ -1,4 +1,10 @@
 
+* Naming for typedef block
+
+```objc
+typedef void(^ACAccountStoreSaveCompletionHandler) (BOOL success, NSError *error);
+typedef void(^ACAccountStoreRequestAccessCompletionHandler) (BOOL granted, NSError *error);
+```
 
 * Naming for method in category
 ```objc
