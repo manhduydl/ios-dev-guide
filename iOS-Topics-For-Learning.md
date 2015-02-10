@@ -8,6 +8,11 @@ Custom Layouts.
 
 ###Resouces
 
+NSOperationQueue
+* http://nshipster.com/nsoperation/
+* http://www.raywenderlich.com/19788/how-to-use-nsoperations-and-nsoperationqueues
+* [Concurrency Programming Guide](https://developer.apple.com/library/mac/documentation/General/Conceptual/ConcurrencyProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008091)
+
 Unit testing
 * http://artofunittesting.com/
 * http://www.jamesshore.com/Blog/Lets-Play
