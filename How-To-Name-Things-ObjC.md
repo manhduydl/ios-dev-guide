@@ -1,6 +1,12 @@
+* Naming for protocol
+```objc
+@class EOCNetworkFetcher;
+@protocol EOCNetworkFetcherDelegate <NSObject>
+- (void)networkFetcher:(EOCNetworkFetcher*)networkFetcher didFinishWithData:(NSData*)data; 
+@end
+```
 
 * Naming for typedef block
-
 ```objc
 typedef void(^ACAccountStoreSaveCompletionHandler) (BOOL success, NSError *error);
 typedef void(^ACAccountStoreRequestAccessCompletionHandler) (BOOL granted, NSError *error);
