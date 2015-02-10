@@ -16,6 +16,7 @@ typedef void(^ACAccountStoreRequestAccessCompletionHandler) (BOOL granted, NSErr
 @class EOCNetworkFetcher;
 typedef void(^EOCNetworkFetcherCompletionHandler)(NSData *data); 
 typedef void(^EOCNetworkFetcherErrorHandler)(NSError *error);
+
 @interface EOCNetworkFetcher : NSObject 
 - (id)initWithURL:(NSURL*)url;
 - (void)startWithCompletionHandler:(EOCNetworkFetcherCompletionHandler)completion failureHandler:
