@@ -12,6 +12,16 @@ typedef void(^ACAccountStoreSaveCompletionHandler) (BOOL success, NSError *error
 typedef void(^ACAccountStoreRequestAccessCompletionHandler) (BOOL granted, NSError *error);
 ```
 
+```objc
+@class EOCNetworkFetcher;
+typedef void(^EOCNetworkFetcherCompletionHandler)(NSData *data); 
+typedef void(^EOCNetworkFetcherErrorHandler)(NSError *error);
+@interface EOCNetworkFetcher : NSObject 
+- (id)initWithURL:(NSURL*)url;
+- (void)startWithCompletionHandler:(EOCNetworkFetcherCompletionHandler)completion failureHandler:
+(EOCNetworkFetcherErrorHandler)failure;
+```
+
 * Naming for method in category
 ```objc
 + (UIStoryboard *)tp_mainStoryboard;
