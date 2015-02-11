@@ -1,14 +1,14 @@
 
 
-How different?
+Avoid block retain cycle
+```objc
+__weak __typeof(self)weakSelf = self;
+AFNetworkReachabilityStatusBlock callback = ^(AFNetworkReachabilityStatus status) {
+    __strong __typeof(weakSelf)strongSelf = weakSelf;
 
-```ojc
-static NSString *const kDetailedViewControllerID = @"DetailView";    // view controller storyboard id
-static NSString *const kCellID = @"cellID";                          // UICollectionViewCell storyboard id
-```
-
-
-```ojc
-NSString *kDetailedViewControllerID = @"DetailView";    // view controller storyboard id
-NSString *kCellID = @"cellID";                          // UICollectionViewCell storyboard id
+    strongSelf.networkReachabilityStatus = status;
+    if (strongSelf.networkReachabilityStatusBlock) {
+        strongSelf.networkReachabilityStatusBlock(status);
+    }
+};
 ```
