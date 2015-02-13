@@ -16,6 +16,9 @@ NSOperationQueue
 * http://www.raywenderlich.com/19788/how-to-use-nsoperations-and-nsoperationqueues
 * [Concurrency Programming Guide](https://developer.apple.com/library/mac/documentation/General/Conceptual/ConcurrencyProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008091)
 
+Testing
+* https://github.com/kiwi-bdd/Kiwi
+
 Unit testing
 * http://artofunittesting.com/
 * http://www.jamesshore.com/Blog/Lets-Play
