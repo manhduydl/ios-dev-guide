@@ -8,6 +8,9 @@ Custom Layouts.
 
 ###Resouces
 
+Coding convention
+* [Coding Guidelines for Cocoa](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html#//apple_ref/doc/uid/10000146-SW1)
+
 NSOperationQueue
 * http://nshipster.com/nsoperation/
 * http://www.raywenderlich.com/19788/how-to-use-nsoperations-and-nsoperationqueues
