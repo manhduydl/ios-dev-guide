@@ -7,7 +7,7 @@ List repos for reading code
 
 Good repos for using in your projects
 * Auto layout
-        *[Masonry](https://github.com/Masonry/Masonry):Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout 
+	* [Masonry](https://github.com/Masonry/Masonry):Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout 
 * Replace NSLog
 	* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack): A fast & simple, yet powerful & flexible logging framework for Mac and iOS.
 	* [UALogger](https://github.com/UrbanApps/UALogger): A powerful and flexible logging utility for Mac/iOS apps  
