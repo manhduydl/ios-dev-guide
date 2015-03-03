@@ -6,6 +6,8 @@ List repos for reading code
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking): A delightful iOS and OS X networking framework http://afnetworking.com
 
 Good repos for using in your projects
+* Debugging
+	* [FLEX](https://github.com/Flipboard/FLEX): An in-app debugging and exploration tool for iOS 
 * Auto layout
 	* [Masonry](https://github.com/Masonry/Masonry):Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout 
 * Replace NSLog
