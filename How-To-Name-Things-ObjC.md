@@ -1,3 +1,8 @@
+* Naming for category
+```objc
+@interface NSArray (MASAdditions)
+@interface NSLayoutConstraint (MASDebugAdditions)
+```
 * Naming for protocol
 ```objc
 @class EOCNetworkFetcher;
