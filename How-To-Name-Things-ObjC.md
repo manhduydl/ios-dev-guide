@@ -1,3 +1,10 @@
+* Naming for Gesture Recognizer
+```objc
+self.longPressGestureRecognizer = [[UILongPressGestureRecognizer alloc]
+initWithTarget:self action:@selector(handleLongPressGesture:)];
+
+(void)handleLongPressGesture:(UILongPressGestureRecognizer*)recognizer
+```
 * Naming for category
 ```objc
 @interface NSArray (MASAdditions)
