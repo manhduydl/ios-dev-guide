@@ -32,6 +32,7 @@ WatchKit
 * http://www.raywenderlich.com/89806/watchkit-ben-morrow-podcast-s02-e07
 * http://nshipster.com/watchkit/
 * http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started
+* http://realm.io/news/architecting-app-apple-watch-natashatherobot/
 
 Facebook Open source
 * http://asyncdisplaykit.org/
