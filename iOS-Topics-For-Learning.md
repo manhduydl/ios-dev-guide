@@ -25,6 +25,7 @@ Testing
 Unit testing
 * http://artofunittesting.com/
 * http://www.jamesshore.com/Blog/Lets-Play
+* http://modocache.svbtle.com/xctest-the-good-parts
 
 WatchKit
 * http://david-smith.org/watchkit/
