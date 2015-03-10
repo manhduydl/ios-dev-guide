@@ -34,6 +34,7 @@ WatchKit
 * http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started
 * http://realm.io/news/architecting-app-apple-watch-natashatherobot/
 * WatchKit Development Tips - https://developer.apple.com/watchkit/tips/
+* http://www.raywenderlich.com/96589/watchkit-tutorial-swift-tables-network-requests
 
 Facebook Open source
 * http://asyncdisplaykit.org/
