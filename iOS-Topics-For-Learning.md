@@ -52,6 +52,7 @@ TestFlight
 
 Gesture recognizers
 * http://www.appcoda.com/ios-gesture-recognizers/
+* http://www.raywenderlich.com/6567/uigesturerecognizer-tutorial-in-ios-5-pinches-pans-and-more
 
 Cocoadpods
 * http://www.raywenderlich.com/64546/introduction-to-cocoapods-2
