@@ -8,6 +8,14 @@ Custom Layouts.
 
 ###Resouces
 
+Facebook
+* https://medium.com/facebook-design/introducing-origami-live-and-origami-2-0-a68116294e65
+* https://f8.facebooklive.com/
+* [Facebook's iOS Architecture - @Scale 2014 - Mobile](https://www.youtube.com/watch?v=mLSeEoC6GjU&feature=youtu.be&t=24m18s)
+* http://componentkit.org/
+* https://developers.facebook.com/blog/
+* https://code.facebook.com/
+
 Refactoring code
 * [Refactoring](http://sourcemaking.com/refactoring/)
 
