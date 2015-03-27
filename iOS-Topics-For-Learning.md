@@ -15,6 +15,7 @@ Facebook
 * http://componentkit.org/
 * https://developers.facebook.com/blog/
 * https://code.facebook.com/
+* https://github.com/facebook/react-native
 
 Refactoring code
 * [Refactoring](http://sourcemaking.com/refactoring/)
