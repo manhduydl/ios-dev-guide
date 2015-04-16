@@ -1,4 +1,6 @@
 
+https://github.com/vsouza/awesome-ios
+
 List repos for creating PRs
 * [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell): An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application).
 
